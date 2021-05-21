@@ -1,0 +1,10 @@
+1.  Install all the required packages(joblib >= 0.13.1,numpy,scikit-learn,beautifulsoup4,whois,google)
+2. Install xampp
+3. Move the project folder to the correct localhost location. For eg . /xampp/htdocs in case of windows.
+4. Start apache server in xampp
+4. Go to chrome://extensions in your Google Chrome browse.
+5. Check the Developer mode checkbox in the top right-hand corner.
+6. Click “Load Unpacked” to see a file-selection dialog
+7. Select your extension directory(Extension Folder).
+8. click on the extension and clickis it safe button, the current tab url is predicted an the response is displayed 
+on the plugin.
